@@ -12,5 +12,5 @@ Deployed: http://skp-suomenkuvapalvelu.s3-website-eu-west-1.amazonaws.com/
 #
 Link to frontend: https://github.com/ansolai/final-project-frontend
 #
-#
 contributors: teepli, david-academy, iirissetala, SamuliSorjonen and ansolai
+#
